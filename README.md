@@ -1,2 +1,2 @@
-# GMI-trends-Data-Analysis
-A simple data analysis on the topic Green India Mission (GMI) by using simple python libraries like pandas, matplot , NumPy and seaborn.
+# Green India Mission Data Analysis Project 🌱
+##This project explores the **Green India Mission**, focusing on data-driven insights into environmental sustainability efforts in India. Using foundational Python libraries like **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**, the analysis includes data preprocessing, statistical exploration, and visual representation of key trends. The goal is to uncover actionable insights into afforestation programs, carbon sequestration, and biodiversity conservation. This repository is ideal for those interested in leveraging Python for environmental data analysis and sustainable development studies. 🌍
